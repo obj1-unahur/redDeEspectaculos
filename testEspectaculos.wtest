@@ -1,0 +1,9 @@
+import espectaculos.*
+
+describe "test Espectaculos" {
+
+  test "test 1" {
+    assert.that(true)
+  }
+
+}
